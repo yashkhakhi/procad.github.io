@@ -106,6 +106,9 @@ nav{
     #myBtn:hover {
         background-color: #555;
     }
+    .card{
+    min-height: 270px;
+    }
     
 }
 .nav-active{
