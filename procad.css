@@ -302,7 +302,7 @@ input[type=text],input[type=email], select, textarea {
     background-color: #083d78;
 }
 .card{
-    height: 270px;
+    min-height: 270px;
     background-color: #083d78;
 }
 #electrical .row{
