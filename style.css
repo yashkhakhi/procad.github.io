@@ -106,7 +106,10 @@ nav{
     #myBtn:hover {
         background-color: #555;
     }
-    .card-body{
+    .card{
+    height: 270px;
+    }
+    .card-body{  
     overflow-y: scroll;
     }
     
